@@ -38,7 +38,7 @@ pxe-service=9, "PXELINUX (0009-EFI)", "grubx64.efi"
 ```
 
 2. Remove the existing wired network profile (Settings GUI)
-3. Set the static IP to the Ethernet interface
+3. Set the static IP to the Ethernet interface.
 Add the following lines to the `/etc/network/interfaces`:
 ```
 auto enp2s0
