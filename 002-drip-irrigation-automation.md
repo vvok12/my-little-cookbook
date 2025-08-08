@@ -1,4 +1,5 @@
-# Automate container plants' irrigation
+# Summary
+Automate container plants' irrigation
 
 ## Components
 1. smart socket (Sharp WiFi Smart Plug)
